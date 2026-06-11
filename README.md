@@ -275,11 +275,45 @@ The fact that 150 male employees left the company compared to 87 female employee
 
 An average pay increase of 15.1% for departing employees indicates that even competitive salary hikes are not always enough to prevent staff turnover, suggesting that retention involves deeper factors than just compensation.
 
-### 19.2 Avg. Salary Hike for employees who stayed
-<img width="614" height="108" alt="image" src="https://github.com/user-attachments/assets/b9540351-ae46-4296-9673-5e43609c4906" />
-<img width="145" height="97" alt="image" src="https://github.com/user-attachments/assets/b312efa9-a5fc-49b8-8c20-6b2beb808d36" />
+## 8. Key findings
+      
 
-An average pay increase of 15.2% for employees who stayed matches the rate of those who left, showing that salary hikes alone are not the main reason staff choose to remain with the company.
+1.	The organization experienced an attrition rate of 16.09%, with 237 out of 1,473 employees leaving the company.
+2.	The Research & Development department recorded the highest number of employee departures (133), followed by Sales (92) and Human Resources (12).
+3.	Employees working overtime showed significantly higher turnover, with 127 departures and an attrition rate of 53.59%.
+4.	Low-income employees accounted for the majority of attrition (192 employees), indicating that compensation strongly influences retention.
+5.	Employees aged 26–35 years experienced the highest turnover, representing 116 departures.
+6.	Departing employees reported relatively low job satisfaction (2.47/4), suggesting that dissatisfaction contributes to turnover.
+7.	Departing employees reported low environment satisfaction (2.46/4), indicating that workplace conditions influence retention.
+8.	Employees who left had an average work-life balance score of 2.66/4, highlighting the impact of workload and personal well-being on retention.
+9.	Employees who left waited an average of 1.95 years since their last promotion, suggesting that limited career advancement contributes to attrition.
+10.	A total of 35 employees left after more than five years without a promotion, indicating that career stagnation increases turnover risk.
+11.	Job Level 1 employees recorded the highest attrition (143 employees) and an attrition rate of 26.3%, making entry-level staff the most vulnerable group.
+12.	Employees who left attended an average of 2.62 training sessions annually, suggesting that limited development opportunities may contribute to turnover.
+13.	Frequent business travel appears to contribute to employee departures, with 69 frequent travelers leaving the company.
+14.	Employees who left lived an average of 10.6 miles from work, indicating that commute distance may affect retention.
+15.	Single employees experienced the highest turnover (120 departures) compared to married and divorced employees.
+16.	Male employees recorded more departures (150) than female employees (87).
+17.	Average salary increases were nearly identical for employees who left (15.1%) and those who stayed (15.2%), indicating that salary hikes alone do not improve retention.
+
+## 9. Reccomendations
+1.	Reduce excessive overtime by improving workforce planning and workload distribution.
+2.	Review compensation structures for lower-income employees to improve retention.
+3.	Develop targeted retention programs for employees aged 26–35 years and entry-level staff.
+4.	Strengthen promotion pathways and career development opportunities to reduce turnover caused by career stagnation.
+5.	Increase employee training, mentorship, and professional development programs.
+6.	Conduct regular employee satisfaction surveys to identify and address workplace concerns early.
+7.	Improve work-life balance initiatives through flexible work arrangements and wellness programs.
+8.	Focus retention efforts on the Research & Development and Sales departments where turnover is highest.
+9.	Enhance manager-employee relationships and workplace culture to improve employee engagement.
+10.	Implement a comprehensive employee retention strategy that addresses compensation, career growth, workload, and employee well-being simultaneously.
+
+
+
+
+
+
+
 
 
 
