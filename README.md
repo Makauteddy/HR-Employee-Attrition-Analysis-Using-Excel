@@ -29,36 +29,36 @@ The HR department wants to understand:
 
 The goal is to identify attrition drivers and provide actionable insights to reduce employee turnover.
 
-# 4. 4. Data Description
+# 4. Data Description
 Dataset Source
 https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset/data?select=HR_Analytics.csv
 ## Dataset Overview
 # Variable	Description
-EmpID- Unique employee identifier
-Age	- Employee age
-AgeGroup- Employee age category
-Attrition - Whether employee left organization (Yes/No)
-Department - Employee department
-JobRole -	Employee position
-JobLevel - Employee career level
-MonthlyIncome - Employee salary
-SalarySlab - Salary category
-OverTime - Whether employee works overtime
-BusinessTravel - Work travel frequency
-JobSatisfaction - Employee satisfaction score
-EnvironmentSatisfaction - Workplace satisfaction score
-RelationshipSatisfaction - Workplace relationship score
-WorkLifeBalance - 	Work-life balance rating
-YearsAtCompany - Employee tenure
-YearsInCurrentRole - Time in current position
-YearsSinceLastPromotion	- Time since promotion
-TrainingTimesLastYear - Training frequency
-PerformanceRating- Performance score
+            EmpID- Unique employee identifier
+            Age	- Employee age
+            AgeGroup- Employee age category
+            Attrition - Whether employee left organization (Yes/No)
+            Department - Employee department
+            JobRole -	Employee position
+            JobLevel - Employee career level
+            MonthlyIncome - Employee salary
+            SalarySlab - Salary category
+            OverTime - Whether employee works overtime
+            BusinessTravel - Work travel frequency
+            JobSatisfaction - Employee satisfaction score
+            EnvironmentSatisfaction - Workplace satisfaction score
+            RelationshipSatisfaction - Workplace relationship score
+            WorkLifeBalance - 	Work-life balance rating
+            YearsAtCompany - Employee tenure
+            YearsInCurrentRole - Time in current position
+            YearsSinceLastPromotion	- Time since promotion
+            TrainingTimesLastYear - Training frequency
+            PerformanceRating- Performance score
 # Variable	Coding
-Attrition	Yes = Employee Left, No = Employee Stayed
-OverTime	Yes / No
-Satisfaction Scores	1 = Low, 4 = High
-Performance Rating	3 = Good, 4 = Excellent
+            Attrition	Yes = Employee Left, No = Employee Stayed
+            OverTime	Yes / No
+            Satisfaction Scores	1 = Low, 4 = High
+            Performance Rating	3 = Good, 4 = Excellent
 
 ## 5. Objectives and Research Questions
 
