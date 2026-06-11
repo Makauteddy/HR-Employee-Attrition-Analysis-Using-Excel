@@ -198,6 +198,34 @@ The average work-life balance score for employees who left was 2.66, which highl
 
 The average workplace environment satisfaction score for employees who left was 2.46, which shows that being unhappy with the actual work environment is a significant factor in why employees choose to leave the company.
 
+## 11.Does Relationship satisfaction affect turnover?
+<img width="623" height="84" alt="image" src="https://github.com/user-attachments/assets/f3b8b9e9-4794-4905-b39f-c2028e6ef46a" />
+<img width="169" height="83" alt="image" src="https://github.com/user-attachments/assets/ffecfe80-f853-4ace-a1b2-b1cf4d8009c6" />
+
+The fact that 57 employees walked out the door with the lowest possible relationship satisfaction score shows that when team harmony or manager connections break down, it serves as a massive eject button for staff.
+
+## 12. 12.	Are employees leaving due to lack of promotions?
+### 12.1 Average years since last promotion (who left)
+<img width="650" height="113" alt="image" src="https://github.com/user-attachments/assets/bc50e9db-9384-4757-979e-c1a36989eba1" />
+<img width="142" height="86" alt="image" src="https://github.com/user-attachments/assets/c3477c3a-062c-4975-8952-c2deedea2e6e" />
+
+With departing employees waiting an average of nearly two years (1.95 years) for a promotion, it's clear that watching your career gather dust is a surefire way to make people pack their bags.
+
+### 12.2 Employees not promoted for more than 5 years who left
+
+<img width="672" height="123" alt="image" src="https://github.com/user-attachments/assets/ea7a4fe6-c1e9-4254-ac7d-903006b7e26b" />
+<img width="173" height="97" alt="image" src="https://github.com/user-attachments/assets/04e160d3-0188-41f1-974d-d4f2eeeab8a7" />
+
+A prolonged promotion drought affecting 35 employees for over five years underscores that a lack of upward mobility and visible career progression serves as a major driver of organizational attrition.
+
+
+
+
+
+
+
+
+
 
 
 
