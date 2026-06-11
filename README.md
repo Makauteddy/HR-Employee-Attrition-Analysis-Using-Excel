@@ -189,6 +189,7 @@ There are 25 employees who left the company with a poor work-life balance found 
 ### 9.2. Average work-life balance of employees who left
 <img width="588" height="103" alt="image" src="https://github.com/user-attachments/assets/be9cfaf0-6f7d-4a5b-b205-24b7d6173dd6" />
 <img width="166" height="86" alt="image" src="https://github.com/user-attachments/assets/ca27404b-ab47-412b-bd68-7d5be00d8bd3" />
+
 The average work-life balance score for employees who left was 2.66, which highlights that difficulty balancing work and personal life is a major reason why people decide to quit.
 
 
