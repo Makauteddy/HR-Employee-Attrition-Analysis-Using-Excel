@@ -121,6 +121,20 @@ There are 237 employees who left  which indicates  that 237 of employees in the 
 
 The attrition rate indicates that  16.09% of employees in the dataset have ended their association with the company.
 
+## 7.2 How many Employees work in each department?
+
+<img width="561" height="75" alt="image" src="https://github.com/user-attachments/assets/5f3edd69-51b7-4aa5-90e0-e9ae35d65296" />
+<img width="331" height="156" alt="image" src="https://github.com/user-attachments/assets/532c7f03-2618-464a-9c33-59faaff180e0" />
+There are 447 employees in Sales, 63 in Human Resources, and 963 in Research & Development found in this dataset.
+
+## 7.3 Which department has the highest attrition?
+<img width="864" height="92" alt="image" src="https://github.com/user-attachments/assets/7253474e-6313-4003-b5ee-f38d21de6dbf" />
+<img width="375" height="158" alt="image" src="https://github.com/user-attachments/assets/8a560ea6-eb25-4ba8-8eaf-d4129606174f" />
+There are 92 attritions in Sales, 12 in Human Resources, and 133 in Research & Development found in this dataset.
+The total attrition of 133 indicates that a significant portion of employees in the Research & Development department have ended their association with the company, making it the department with the highest overall volume of departures.
+
+
+
 
 
 
