@@ -218,6 +218,46 @@ With departing employees waiting an average of nearly two years (1.95 years) for
 
 A prolonged promotion drought affecting 35 employees for over five years underscores that a lack of upward mobility and visible career progression serves as a major driver of organizational attrition.
 
+## 13.  Do lower job levels have higher attrition?
+### 13.1 Job level 1 attrition
+<img width="511" height="133" alt="image" src="https://github.com/user-attachments/assets/b8e89980-27a8-40c2-8bc3-1de3e8bc0820" />
+<img width="188" height="80" alt="image" src="https://github.com/user-attachments/assets/bf24fe52-fe49-423c-a9a7-1f66b54bc0cb" />
+
+The departure of 143 entry-level employees indicates that staff at the lowest job tier are highly prone to leaving, highlighting an urgent need to focus on early-career retention.
+
+### 13.2 Attrition rate job level 1
+<img width="794" height="109" alt="image" src="https://github.com/user-attachments/assets/90a60ec3-ad0e-4435-bc7d-ade35db86606" />
+<img width="186" height="95" alt="image" src="https://github.com/user-attachments/assets/89bfddf7-17e5-4298-a91a-47279ceac31c" />
+
+With a high turnover rate of 26.3% at job level 1, it is clear that over a quarter of our entry-level staff are leaving, pointing to a strong need to improve early-career support.
+
+## 14.Does training reduce attrition? 
+<img width="647" height="116" alt="image" src="https://github.com/user-attachments/assets/24e29596-96af-48d8-9dc1-01230e5a2c14" />
+<img width="156" height="84" alt="image" src="https://github.com/user-attachments/assets/94bcf2b1-509d-4953-82b7-ad7da1582d31" />
+
+An average of 2.62 training sessions per year for employees who left suggests that inadequate development opportunities may contribute to staff departures, highlighting a need to enhance training programs.
+
+## 15. Does business travel contribute to attrition?
+### 15.1 Frequent travelers who left
+<img width="722" height="97" alt="image" src="https://github.com/user-attachments/assets/62473aee-2092-4f88-b339-cd3b6a50add8" />
+<img width="153" height="73" alt="image" src="https://github.com/user-attachments/assets/cd2edfb1-286e-4c56-88dd-2690ee7c99c3" />
+
+The departure of 69 employees who traveled frequently suggests that a heavy travel schedule is a major factor driving staff to leave the company.
+
+### 15.2 Rare travelers   who left 
+<img width="677" height="113" alt="image" src="https://github.com/user-attachments/assets/731967c9-06d8-4fd1-beb8-53d48b6d09b6" />
+<img width="128" height="75" alt="image" src="https://github.com/user-attachments/assets/79d754e2-841b-4a2c-92a5-0de6b6f28c43" />
+
+The departure of 156 employees who traveled rarely shows that even without heavy time on the road, significant numbers of staff are still finding reasons to move on from the company.
+
+
+
+
+
+
+
+
+
 
 
 
