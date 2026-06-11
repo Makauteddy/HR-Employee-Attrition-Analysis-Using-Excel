@@ -60,52 +60,46 @@ https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset/data?select=HR_
             Satisfaction Scores	1 = Low, 4 = High
             Performance Rating	3 = Good, 4 = Excellent
 
-## 5. Objectives and Research Questions
+# 5. Objectives and Research Questions
+            
+            Measure overall employee attrition rate.
+            Identify departments with the highest employee turnover.
+            Analyze the relationship between overtime and attrition.
+            Determine whether salary influences employee retention.
+            Understand how satisfaction and career growth affect employee decisions.
+            Identify employee groups with higher attrition risk.
 
-Measure overall employee attrition rate.
-Identify departments with the highest employee turnover.
-Analyze the relationship between overtime and attrition.
-Determine whether salary influences employee retention.
-Understand how satisfaction and career growth affect employee decisions.
-Identify employee groups with higher attrition risk.
-
-## 6. Methodology
-Step 1: Data Cleaning
-
+# 6. Methodology
+### Step 1: Data Cleaning
+      
 The dataset was prepared by:
+      Checking missing values
+      Removing duplicates
+      Validating data types
+      Standardizing categorical fields
+      Ensuring consistency in employee records
+### Step 2: Feature Creation
 
-Checking missing values
-Removing duplicates
-Validating data types
-Standardizing categorical fields
-Ensuring consistency in employee records
-Step 2: Feature Creation
-
-Additional analysis fields were created:
-
-Attrition Flag
-=IF([@Attrition]="Yes",1,0)
-Employee Risk Category
-=IF(AND([@OverTime]="Yes",
-[@JobSatisfaction]<=2),
-"High Risk","Low Risk")
-Tenure Groups
-
-Employees were grouped into:
-
-0–2 Years
-3–5 Years
-6–10 Years
-10+ Years
-Step 3: Exploratory Data Analysis
-
-Analysis was performed using:
-
-Summary statistics
-Pivot Tables
-Conditional formatting
-KPI calculations
-Step 4: Dashboard Development
-
+2.1 Additional analysis fields were created:
+      Attrition Flag
+      =IF([@Attrition]="Yes",1,0)
+      Employee Risk Category
+      =IF(AND([@OverTime]="Yes",
+      [@JobSatisfaction]<=2),
+      "High Risk","Low Risk")
+2.2 Tenure Groups
+      Employees were grouped into:
+      0–2 Years
+      3–5 Years
+      6–10 Years
+      10+ Years
+### Step 3: Exploratory Data Analysis
+      Analysis was performed using:
+      Summary statistics
+      Pivot Tables
+      Conditional formatting
+      KPI calculations
+### Step 4: Dashboard Development
 An interactive Excel dashboard was created using Tableau
-7. Answering the research Questions
+
+# 7. Answering the research Questions
