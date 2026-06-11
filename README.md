@@ -103,3 +103,9 @@ The dataset was prepared by:
 An interactive Excel dashboard was created using Tableau
 
 # 7. Answering the research Questions
+## 7.1 What is the overall employee attrition rate?
+# 7.1.1 Total Employees
+<img width="259" height="73" alt="image" src="https://github.com/user-attachments/assets/8da8c1a5-4e84-40bb-851f-86f840f5dd76" />
+<img width="152" height="77" alt="image" src="https://github.com/user-attachments/assets/0c1f78c4-de72-44e9-abe6-7b2e94712448" />
+
+There are 1,473 employees found in this dataset.
