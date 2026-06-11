@@ -262,7 +262,26 @@ An average commute distance of 10.6 miles for departing employees shows that lon
 
 With single employees accounting for the highest departures at 120, followed by 84 married and 33 divorced employees, marital status shows a clear link to different levels of turnover risk across the workforce.
 
-## 18.	Does gender affect attrition?
+## 18. Does gender affect attrition?
+<img width="688" height="80" alt="image" src="https://github.com/user-attachments/assets/5f5d5b4f-a52e-49ec-b707-42a0d2813922" />
+<img width="322" height="108" alt="image" src="https://github.com/user-attachments/assets/68f4f2fc-a923-4dfc-a554-dbc278a5547f" />
+
+The fact that 150 male employees left the company compared to 87 female employees indicates a higher volume of turnover among male staff, suggesting that gender-based patterns play a noticeable role in overall attrition.
+
+## 19.Does Salary hike improve retention?
+### 19.1  Avg. salary hike for employees who left
+<img width="598" height="92" alt="image" src="https://github.com/user-attachments/assets/8776f617-f06f-41ef-b619-a1f9d3645e8b" />
+<img width="164" height="72" alt="image" src="https://github.com/user-attachments/assets/f8cd4c7f-7c18-4e4c-a423-a5e1c34fb075" />
+
+An average pay increase of 15.1% for departing employees indicates that even competitive salary hikes are not always enough to prevent staff turnover, suggesting that retention involves deeper factors than just compensation.
+
+### 19.2 Avg. Salary Hike for employees who stayed
+<img width="614" height="108" alt="image" src="https://github.com/user-attachments/assets/b9540351-ae46-4296-9673-5e43609c4906" />
+<img width="145" height="97" alt="image" src="https://github.com/user-attachments/assets/b312efa9-a5fc-49b8-8c20-6b2beb808d36" />
+
+An average pay increase of 15.2% for employees who stayed matches the rate of those who left, showing that salary hikes alone are not the main reason staff choose to remain with the company.
+
+
 
 
 
