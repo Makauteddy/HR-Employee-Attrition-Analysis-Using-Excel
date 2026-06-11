@@ -113,7 +113,14 @@ There are 1,473 employees found in this dataset.
 <img width="313" height="72" alt="image" src="https://github.com/user-attachments/assets/9016a9f0-bd8d-46a1-81ea-0d90314d7830" />
 <img width="134" height="86" alt="image" src="https://github.com/user-attachments/assets/b6c5fe09-23d7-484e-bfc9-4f5bef0729b8" />
 
-There are 237 employees who left found in this dataset which indicates  that 237 of employees in the dataset have ended their association with the company.
+There are 237 employees who left  which indicates  that 237 of employees in the dataset have ended their association with the company.
+
+#### 7.1.3	Attrition Rate
+<img width="584" height="86" alt="image" src="https://github.com/user-attachments/assets/fc3ebcd8-a5bb-424d-8c63-d052c4ffcd33" />
+<img width="130" height="67" alt="image" src="https://github.com/user-attachments/assets/14501368-8ed0-42a9-91b2-cf9a10b72355" />
+
+The attrition rate indicates that  16.09% of employees in the dataset have ended their association with the company.
+
 
 
 
