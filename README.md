@@ -296,7 +296,7 @@ An average pay increase of 15.1% for departing employees indicates that even com
 16.	Male employees recorded more departures (150) than female employees (87).
 17.	Average salary increases were nearly identical for employees who left (15.1%) and those who stayed (15.2%), indicating that salary hikes alone do not improve retention.
 
-## 9. Reccomendations
+## 9. Reccommendations
 1.	Reduce excessive overtime by improving workforce planning and workload distribution.
 2.	Review compensation structures for lower-income employees to improve retention.
 3.	Develop targeted retention programs for employees aged 26–35 years and entry-level staff.
