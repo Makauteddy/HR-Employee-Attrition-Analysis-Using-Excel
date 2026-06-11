@@ -192,6 +192,12 @@ There are 25 employees who left the company with a poor work-life balance found 
 
 The average work-life balance score for employees who left was 2.66, which highlights that difficulty balancing work and personal life is a major reason why people decide to quit.
 
+## 10. Does environment satisfaction impact attrition?
+<img width="669" height="123" alt="image" src="https://github.com/user-attachments/assets/f3b33f07-a846-444b-8244-dc8580abf59b" />
+<img width="155" height="83" alt="image" src="https://github.com/user-attachments/assets/78f0079f-3908-480e-8168-9049d339d850" />
+
+The average workplace environment satisfaction score for employees who left was 2.46, which shows that being unhappy with the actual work environment is a significant factor in why employees choose to leave the company.
+
 
 
 
