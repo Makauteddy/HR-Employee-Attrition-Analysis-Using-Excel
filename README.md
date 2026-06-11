@@ -179,6 +179,22 @@ There are 66 employees with a job satisfaction score of 1 found in this dataset,
 <img width="148" height="83" alt="image" src="https://github.com/user-attachments/assets/8f54b8fa-1d92-4754-b783-8c79a1c401da" />
 There are 1,473 total employees analyzed in this dataset, and the average job satisfaction score of 2.47 for those who left indicates that departing employees generally experienced lower overall satisfaction before ending their association with the company.
 
+##  9.Does work-life balance influence employee retention?
+### 9.1  Employees who left with poor work-life balance
+<img width="541" height="92" alt="image" src="https://github.com/user-attachments/assets/c78f9401-7fc9-44a1-94e0-25b9801d8a43" />
+<img width="150" height="86" alt="image" src="https://github.com/user-attachments/assets/84b88822-b4e3-43fa-8521-5cfd06955804" />
+
+There are 25 employees who left the company with a poor work-life balance found in this dataset, indicating that personal-professional equilibrium significantly influences employee retention since a notable portion of departures reported the lowest level of work-life balance.
+
+### 9.2. Average work-life balance of employees who left
+<img width="588" height="103" alt="image" src="https://github.com/user-attachments/assets/be9cfaf0-6f7d-4a5b-b205-24b7d6173dd6" />
+<img width="166" height="86" alt="image" src="https://github.com/user-attachments/assets/ca27404b-ab47-412b-bd68-7d5be00d8bd3" />
+The average work-life balance score for employees who left was 2.66, which highlights that difficulty balancing work and personal life is a major reason why people decide to quit.
+
+
+
+
+
 
 
 
