@@ -250,6 +250,22 @@ The departure of 69 employees who traveled frequently suggests that a heavy trav
 
 The departure of 156 employees who traveled rarely shows that even without heavy time on the road, significant numbers of staff are still finding reasons to move on from the company.
 
+## 16. Does distance from home affect attrition?
+<img width="664" height="109" alt="image" src="https://github.com/user-attachments/assets/2f107ee2-9204-41e7-acc9-d9ee652ad0fa" />
+<img width="167" height="111" alt="image" src="https://github.com/user-attachments/assets/8b61048f-4c2f-4ae7-a454-0d0905aa4c0b" />
+
+An average commute distance of 10.6 miles for departing employees shows that longer travel times from home can noticeably strain retention and influence a person's decision to leave.
+
+## 17. Does Marital Status affect attrition?
+<img width="700" height="91" alt="image" src="https://github.com/user-attachments/assets/44c187b0-a242-4021-b71e-b2f07a5ed7ee" />
+<img width="327" height="152" alt="image" src="https://github.com/user-attachments/assets/9ced2ec7-d722-4a79-b423-145d144095a1" />
+
+With single employees accounting for the highest departures at 120, followed by 84 married and 33 divorced employees, marital status shows a clear link to different levels of turnover risk across the workforce.
+
+## 18.	Does gender affect attrition?
+
+
+
 
 
 
